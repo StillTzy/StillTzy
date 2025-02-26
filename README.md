@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am an undergraduate student in the Department of Electric Engineering and Computer Science (EECS).
+stilltzy@stu.pku.edu.cn
+
 <!--
 **StillTzy/StillTzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
